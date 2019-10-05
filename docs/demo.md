@@ -16,7 +16,7 @@ Mas Texto
 
 - [x] Lista de chequeo1 1
 
-- [ x] Lista de cuequeo 2
+- [x] Lista de cuequeo 2
 
 ## Subtitulo 4
 
