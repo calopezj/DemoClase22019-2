@@ -3,6 +3,8 @@ Demo para el manejo de Git
 
 Esta es la linea 1
 
+_________________________________
+
 Esta es la linea 2
 
 Esta es la linea 3
