@@ -14,9 +14,9 @@ Mas Texto
 ## Subtitulo 3
 
 
-[ ] Lista de chequo1 1
+- [x] Lista de chequo1 1
 
-[ ] Lista de cuequeo 2
+- [ ] Lista de cuequeo 2
 
 ## Subtitulo 4
 
