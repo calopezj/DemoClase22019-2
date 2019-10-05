@@ -23,3 +23,7 @@ Mas Texto
 Ecuación:
 
 $$x^2$$
+
+## Links
+
+[Link a Google](www.google.com).
