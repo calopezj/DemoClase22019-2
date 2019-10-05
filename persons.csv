@@ -1,0 +1,21 @@
+﻿id;firstname;surname;birthday;color;quantity;lastActivity;country;Salary
+1;Ñivian;Hamilton;8/07/1971;green;1;ENE-1/1998;France;$1'000.000,00
+2;Karen;Holcomb;23/05/1974;green;4;2016-FEB-01;France;$1'000.000,00
+3;Cody;Garrett;22/04/1973;orange;1;MAR01/98;France;$1'000.000,00
+4;Róth;Fry;29/01/1975;black;1;Ene-1/1998;France;$1'000.000,00
+5;Zoe;Conway;;blue;2;1998-ENE-01;France;$1'000.000,00
+6;Gretchen;Kinney;18/10/1974;viole;1;ENE-16/2016;France;$1'000.000,00
+7;Driscoll;Klein;5/10/1970;blue;5;1998-01-01;France;$1'000.000,00
+8;Karyn;Diaz;24/02/1969;red;1;1998-01-01;France;$1'000.000,00
+9;Merritt;Guy;17/10/1974;;4;Ene-1/1998;France;$1'000.000,00
+10;Kylan;Sexton;28/02/1975;black;4;1998-01-01;France;$1'000.000,00
+11;Jordan;Estes;7/12/1969; ;4;1998-01-01;France;$1'000.000,00
+12;Hope;Coffey;24/12/1973;green;5;FEB-12/2015;France;$1'000.000,00
+13;Vivian;Crane;27/08/1970;gray;5;2019-01-31;France;$1'000.000,00
+14;Clio;Noel;12/12/1972;red;5;2018-08-01;France;$1'000.000,00
+15;Hope;Silva;1/07/1970;blue;5;Ene-1/2018;France;$1'000.000,00
+8;Karyn;Diaz;24/02/1969;red;1;1998-01-01;France;$1'000.000,00
+16;Ayanna;Jarvis;11/02/1974;orange;5;1998-FEB-01;France;$1'000.000,00
+17;Chanda;Boyer;1/04/1973;green;4;1998-ENE-01;France;$1'000.000,00
+18;Chadwick;Knight;29/04/1973;yellow;1;MAR-1/2017;France;$1'000.000,00
+3;Cody;Garrett;22/04/1973;orange;1;MAR01/98;France;$10'000.000,00
