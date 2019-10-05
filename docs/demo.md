@@ -15,10 +15,11 @@ Mas Texto
 
 
 [ ] Lista de chequo1 1
+
 [ ] Lista de cuequeo 2
 
 ## Subtitulo 4
 
 Ecuación:
 
-$$ x^2 $$
+$$x^2$$
